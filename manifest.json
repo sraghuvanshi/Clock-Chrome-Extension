@@ -1,0 +1,9 @@
+{
+  "manifest_version": 2,
+  "name": "New Tab Clock Extension",
+  "version": "1.0",
+  "description": "My first extension!",
+  "chrome_url_overrides": {
+    "newtab": "index.html"
+  }
+}
